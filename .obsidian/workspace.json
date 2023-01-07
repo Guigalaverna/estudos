@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b19b55b275e90b",
+        "id": "c47c04e51b826aab",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf5c577d1754fc9",
+            "id": "8e63627332e1f23b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cbd40808223d546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "literatura/Introdução à Literatura.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b43abd0bf26b1711",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "literatura/Introdução à Literatura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "literatura/Introdução à Literatura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "literatura/Introdução à Literatura.md"
               }
             }
           }
@@ -159,10 +147,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cbd40808223d546",
+  "active": "8e63627332e1f23b",
   "lastOpenFiles": [
-    "analise-linguistica/Sem título.md",
+    "assets/Professor Noslen - Introdução à Literatura - Linha do Tempo das Escolas Literárias [Prof. Noslen] [WGZFBePibF0 - 899x506 - 7m15s].png",
+    "Sem título.canvas",
+    "literatura/Introdução à Literatura.md",
     "README.md",
+    "analise-linguistica/Sem título.md",
     "analise-linguistica/Classe de Palavras.md"
   ]
 }
