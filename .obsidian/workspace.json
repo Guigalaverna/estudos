@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0216cbef4eb8ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "literatura/Trovadorismo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literatura/Introdução à Literatura.md",
+                "file": "literatura/Trovadorismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literatura/Introdução à Literatura.md",
+                "file": "literatura/Trovadorismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literatura/Introdução à Literatura.md"
+                "file": "literatura/Trovadorismo.md"
               }
             }
           }
@@ -147,11 +160,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8e63627332e1f23b",
+  "active": "f0216cbef4eb8ad8",
   "lastOpenFiles": [
+    "literatura/Introdução à Literatura.md",
+    "literatura/Trovadorismo.md",
     "assets/Professor Noslen - Introdução à Literatura - Linha do Tempo das Escolas Literárias [Prof. Noslen] [WGZFBePibF0 - 899x506 - 7m15s].png",
     "Sem título.canvas",
-    "literatura/Introdução à Literatura.md",
     "README.md",
     "analise-linguistica/Sem título.md",
     "analise-linguistica/Classe de Palavras.md"
