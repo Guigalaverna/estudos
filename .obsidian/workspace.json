@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "c47c04e51b826aab",
+        "id": "e8f39c6ff5f42380",
         "type": "tabs",
         "children": [
           {
-            "id": "8e63627332e1f23b",
+            "id": "dc8865d4d6241fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literatura/Introdução à Literatura.md",
+                "file": "analise_linguistica/Variação Linguística.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f0216cbef4eb8ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literatura/Trovadorismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "124bddc97423d79f"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "495ec02d1e5bd453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30a0e7eb5aef6154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "analise_linguistica/Variação Linguística.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "124bddc97423d79f"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 229,
     "collapsed": true
   },
   "right": {
@@ -99,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literatura/Trovadorismo.md",
+                "file": "analise_linguistica/Variação Linguística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "literatura/Trovadorismo.md",
+                "file": "analise_linguistica/Variação Linguística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "literatura/Trovadorismo.md"
+                "file": "analise_linguistica/Variação Linguística.md"
               }
             }
           }
@@ -160,13 +167,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f0216cbef4eb8ad8",
+  "active": "30a0e7eb5aef6154",
   "lastOpenFiles": [
-    "literatura/Introdução à Literatura.md",
+    "analise_linguistica/Variação Linguística.md",
     "literatura/Trovadorismo.md",
-    "assets/Professor Noslen - Introdução à Literatura - Linha do Tempo das Escolas Literárias [Prof. Noslen] [WGZFBePibF0 - 899x506 - 7m15s].png",
-    "Sem título.canvas",
+    "literatura/Introdução à Literatura.md",
+    "literatura/Organização da sociedade Trovadoresca.canvas",
     "README.md",
+    "assets/Professor Noslen - Introdução à Literatura - Linha do Tempo das Escolas Literárias [Prof. Noslen] [WGZFBePibF0 - 899x506 - 7m15s].png",
     "analise-linguistica/Sem título.md",
     "analise-linguistica/Classe de Palavras.md"
   ]

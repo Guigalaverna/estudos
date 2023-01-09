@@ -1,3 +1,9 @@
 {
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "autoConvertHtml": true
 }

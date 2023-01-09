@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "translucency": true,
-  "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "Arial",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font"
+  "translucency": false,
+  "cssTheme": "Obsidianite",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "theme": "obsidian"
 }
