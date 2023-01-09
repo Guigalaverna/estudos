@@ -9,6 +9,6 @@ Cada tema ou matéria (ensino médio) tem uma pasta dedicada para ela. Sendo ass
 
  | Nome original | Nome formatado |
  |----------------- | -------------------|
- | Análise Linguística | analise_lingustica |
+ | Análise Linguística | analise_linguistica |
  | Matemática | matematica |
  
