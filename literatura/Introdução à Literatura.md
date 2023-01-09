@@ -5,7 +5,7 @@ A literatura é a maneira como o ser humano se **expressa** em determinado conte
 
 ## Escolas literárias
 As escolas são representações do pensamento humano em contextos históricos.
-- [ ] Trovadorismo
+- [x] [[Trovadorismo]]
 - [ ] Humanismo
 - [ ] Quinhentismo
 - [ ] Classicismo
