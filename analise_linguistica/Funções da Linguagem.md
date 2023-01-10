@@ -9,7 +9,8 @@ Forma como cada indivíduo se expressa conforme a **intenção** do texto, poden
 | Canal de comunicação | Meio em que a informação é passada (**voz**, **texto**) |
 | Código de interpretação | Maneira de interpretação da informação. Ex. lingua portuguesa pra textos em português |
 | Contexto | Situação em que a informação é inserida |
-Esses conceitos são fundamentos de informações passadas por diversos meios de comunicação. Para exemplificar podemos utilizar uma notícia como objeto de análise:
+
+Esses conceitos são fundamentos de informações passadas por diversos meios de comunicação. Para exemplificar podemos utilizar um texto [[Tipos textuais#^539971|dissertativo expositivo]] como uma notícia de objeto de análise:
 
 | Conceito | Explicação |
 |---------- | ------------|

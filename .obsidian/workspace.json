@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c46eecb128a732b3",
+        "id": "4eae8795e8d5a944",
         "type": "tabs",
         "children": [
           {
-            "id": "44c6affa3a2d03a2",
+            "id": "48a03b7bf84c9570",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "analise_linguistica/Figuras de Linguagem.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analise_linguistica/Figuras de Linguagem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "analise_linguistica/Figuras de Linguagem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "analise_linguistica/Figuras de Linguagem.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +139,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "44c6affa3a2d03a2",
+  "active": "48a03b7bf84c9570",
   "lastOpenFiles": [
-    "sendo.md",
     "analise_linguistica/Figuras de Linguagem.md",
-    "().md",
+    "analise_linguistica/Gêneros textuais.md",
     "analise_linguistica/Funções da Linguagem.md",
     "analise_linguistica/Variação Linguística.md",
-    "Linguagem.md",
-    "literatura/Trovadorismo.md",
-    "literatura/Introdução à Literatura.md",
-    "literatura/Organização da sociedade Trovadoresca.canvas",
-    "README.md"
+    "analise_linguistica/Tipos textuais.md",
+    "Sem título 1.md",
+    "[[.md",
+    "README.md",
+    "sendo.md",
+    "().md"
   ]
 }

@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "translucency": false,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "Catppuccin",
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Inter",
   "monospaceFontFamily": "",
   "theme": "obsidian"
 }
