@@ -12,7 +12,9 @@
 	- Palavra com sentidos que carregam valores sociais, afetivos e etc.
 	- Utilizada de modo criativo, artístico
 	- Linguagem expressiva, rica em sentido ^d6252a
-## Figuras
+## Quais são as figuras de linguagem?
+As figuras de linguagem são "acontecimentos" que ocorrem num texto sempre fazendo uma relação ao outro assunto. No cotidiano isso é muito bem aplicado aos [[Gêneros textuais|gêneros textuais]] como a **narrativa**.
+
 ### Comparação
 Consiste em aproximar dois seres em razão de alguma semelhança existente entre eles por meio de um elemento comparativo expresso:
 - *Como*
