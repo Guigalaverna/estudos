@@ -11,4 +11,6 @@ Cada tema ou matéria (ensino médio) tem uma pasta dedicada para ela. Sendo ass
  |----------------- | -------------------|
  | Análise Linguística | analise_linguistica |
  | Matemática | matematica |
- 
+
+## Recomendações
+As anotações que estão neste repositório foram escritas usando o aplicativo [Obsidian](https://obsidian.md) então alguns links para outras notas podem não funcionar como esperado. Isso não torna a anotação impossível de ser lida já que o próprio GitHub possui um leitor de Markdown para as minhas anotações
