@@ -1,4 +1,4 @@
-# Variação Linguísica
+# Variação Linguística
 ## O que é?
 É a capacidade que a língua possui de se modificar e se adapter conforme alguns critérios. Esses critério que modifica a língua são:
 
